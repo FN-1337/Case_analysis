@@ -75,7 +75,7 @@ Business tools
 4.	Asana
 
 Robinhood uses all these programs to bring us the web and mobile app that we use to trade stocks and crypto currency. They use programs like React to build the user interface that we see every time we open the app or Python to manage the Data that is being sent into the application.  They also use apps like Airflow to monitor the Data pipelines of stock and user information. The main goal that they have is to make an easy user interface that has all the financial data necessary to buy and sell stocks.  
-## Landscape:
+## Landscape
 * What domain of the financial industry is the company in? 
 
 Robinhood is considered a FINRA-regulated broker-dealer and a Stockbroker Electronic trading platform. In recent years they have expanded into crypto currency trading. 
